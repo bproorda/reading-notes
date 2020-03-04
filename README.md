@@ -8,7 +8,7 @@
   5. [Read 05: HTML images, CSS color & text](class-05.md)
   6. [Read 06: JS Object literals, DOM](class-06.md)
   7. [Read 07:  HTML Tables; JS Constructor Functions](class-07.md)
-  8. [Read 08:  CSS Layout](class-07.md)
+  8. [Read 08:  CSS Layout](class-08.md)
 
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 class. Feel to free to follow along as I study web development! 
