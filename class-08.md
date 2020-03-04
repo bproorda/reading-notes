@@ -1,4 +1,4 @@
-5[Home](README.md)
+[Home](README.md)
 
 # HTML Layout
 - CSS treats each HTML as if it is in own box, they will be either block or inline elements.
