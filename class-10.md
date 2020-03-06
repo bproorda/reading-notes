@@ -1,0 +1,52 @@
+[Home](README.md)
+
+# JS Error Handling and Debugging
+- When debugging, it can help to know the *Order of Execution*, the order in which statements are executed. Some tasks cannot be run before another function/statement
+- like css  certain items will cascade down, but functions and methods are called, which they go back to their code
+- JS defines three *execution contexts*
+  - Global: code that is in the script, but not in a function. only one per page
+  - Function context: code run inside a function, every function has one.
+  - Eval: 404
+- The first two correspond with *variable scope*
+   - Global variable: defined outside a function, can be used anywhere in the code
+   - Function level: defined inside a function , can only be used inside a function.
+- JS interpter only processes one line of code at a time
+- when a statement needs data from anoter function, it stacks ontop the current task
+- once the task is finished, the interpreter goes back to task at hand
+- if a JS statement generates an error, the interpreter throws up an *exception* and running the code.
+- when that happens, the interpreter will look for *exception handling* statements, more later
+- if not exception handle statements are not found, the interpreter will follow the chain until it finds such statements or produce an exception/error
+- error objects can help you find what went wrong
+  - will contain four properties
+  - name: type of execution
+  - message: description
+  - fileNumber: name of the js file
+  - lineNumber: on which line the error happened
+- there are seven types of errors
+  - Error: generic catch-all
+  - SyntaxError: syntax rules not being followed
+  - ReferenceError: tried to reference an error that has not been declared/ not in scope
+  - TypeError: an unexpected data type that cannot be coecered
+  - RangeError: Numbers not in excepted range
+  - URLerror: encodeURI ().decodeURI(),and similar methods used incorrectly 
+  - EvalError: eval function used incorrectly
+- How to deal with errors
+  1. Debug the script
+  2. handle errors gracefully
+- Debugging Workflow: all about deduction, eliminating potential causes of errors.
+  - Where is the problem? narrow down where the problem seems to be.
+  - What exactly is the problem? 
+    - check the variables/syntax to see if anything looks wrong
+    - breakout sections of code and test in console/use console.logs/
+    - check the number of parameters in a function, number of items in array.
+    - check if objects and methods exist
+- Handling Exceptions: if you think your code might fail use :try, catch, fail.
+  - try: first try the code you think might not work, if an exception occurs, then send it to he catch block
+  - catch: the catch block is an alternate block of code, the error is a parameter of the catch
+    - also used to give message to user stating that something went wrong.
+  - finally: this code block runs whether or not the try fails
+  - ` if (response) { try { code block} catch (e) {code block} finallys { code block}} `
+- you can create a code to throw an error, think of a fuse
+  - ` throw new Error('message') `
+  - debugging tips: try another browser, add numbers, strip it back, explain the code to someone else, Google!,  code playground, validation tools
+  - common errors: checkspelling/capitalization, missed/extra characters, data type issuses
