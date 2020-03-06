@@ -49,3 +49,46 @@
 - cursor style: auto, crosshair, default, pointer, move, text, wait, help, url()
 
 # Javascript Events
+- coder can use js to repsond to events, such as cursor hovering or click
+- event handling steps
+  - select the element node you want the script to respond to
+  - indicate which event on the selected node will trigger the response
+  - state the code you want to run
+- event handlers
+  - in HTML, used as an attribute, `<a onclick="function()">`
+    - Bad Code? do not use. evidently we should separate JS and HTML, church and state, etc
+  - DOM event handler: element.on*event* = functionName;
+    - ```
+      var el = document.getElementById('userName');
+      el.onclick = checkUserName();
+    ```
+  - DOM event listener: can deal with more than one function at a time, not always supported by older browsers
+    - `element.addEventListener('event', functionName, [, Boolean]);`
+    - ```
+      var el = document.getElementById('userName');
+      el.addEventListener('blur', checkUserName, false);
+      ```
+    - if needed there is a removeEventListener function
+    - if function needs parameters, wrap it in an anonymous function
+      ```
+      el.addEventListener('blur', function() {
+        checkUserName(5);
+      }, false); <-- don't forget semicolon!
+      ```
+- event flow
+  - if you hover/click on an html element, you also click on its parent element(s)
+  - event bubbling: event starts at most specific node, and flows outward
+  - event capturing: event starts at least specific node and works inward to most specific
+  - flow only really matters when you have your code has event handlers on an element and one of its ancestors.
+  - true = capturing phase
+  - false = bubbling phase
+- the event object: tells you about the event that happened and on what element.
+  - creating many event listeners can slow down a page, event flow allows you to listen for event on parent element.
+  - use event object's target property
+  - allows you to add new elements without having to attach listeners to them
+  - can simplify your code
+  - event object has methods to change the default behavior of an element
+    - preventDefault
+    - stopPropagation: stops event bubbling
+    - pg 268 - 269 for good example on event propagation
+- use the event object's target property to determine on which element the event happened
