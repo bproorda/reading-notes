@@ -11,6 +11,7 @@
   8. [Read 08:  CSS Layout](class-08.md)
   9. [Read 09:  Forms and Events](class-09.md)
   10. [Read 10: JS Error handling and Debugging](class-10.md)
+  11. [Read 10: Images, and Practical information](class-11.md)
 
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 class. Feel to free to follow along as I study web development! 
