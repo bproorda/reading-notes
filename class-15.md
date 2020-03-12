@@ -1,0 +1,11 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+Finding or making the team that works well together, let alone perfectly, can seem like an impossible magic trick. There have always been theories and about what makes a good team. There is as much evidence to contradict those theories as there is to support them. Google attempted to find an answer by doing one of the things they do best, analyze vasts amounts of data. 
+
+At first, they studied the convential beliefs about groups, such as the importance of the individual make up of the team. The greater the intelligence of the of individuals, the greater the intelligence will be, right? The researchers found no correlation or pattern between the intelligence/skil level of the individuals and the collective intelligence of the group. The only real patterns they found were that each group had certain norms, or unspoken rules. However, those norms could vary greatly between even effective teams.
+
+The researchers studied this normals until they noticed that while the norms differed greatly, two were generally universal. They conversational turn-taking, and social sensitivity. The former describes how all members of the group spoke roughly equal amounts of time. No one person, or smaller internal group, had a monoply on group time or conversation. The latter is the that group members were skilled at reading each other emotionally and socially. It allows them to pick of on how someone on the team is feeling or is leaving unsaid. When a group has these traits, they will be more collectively intelligent then one that does not even if the other group has more impressive roster.
+
+Together conversational turn-taking and social sensitivity form what is know as *psychological safety*. According to Amy Edmundson of Harvard, psychological saftey is a "shared belief held by members of a team that the team is safe for interpersonal risk-taking." This was the keystone in the arch of team building. If members could make each other feel that is they were safe enough to be themselves and share, then you have that the start of wonderful group.
+
+How to achieve this, though, is still a bit of mystery. Maybe by having a casual group breakfast?
