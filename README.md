@@ -14,6 +14,7 @@
   11. [Read 11: Images, and Practical information](class-11.md)
   12. [Read 12: Docs for the HTML <canvas> Element & Chart.js](class-12.md)
   13. [Read 13: THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](class-13.md)
+  14. [Read 14: CSS Transforms, Transitions, and Animations](class-14.md)
 
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 class. Feel to free to follow along as I study web development! 
