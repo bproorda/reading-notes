@@ -1,7 +1,8 @@
-# Code 201 Reading Notes
+# Code 201/301 Reading Notes
 
-**Table of Contents**
-  1. [Read 01: Intro to HTML and Javascript](class-01.md)
+## Table of Contents ##
+**Code 201**
+  1. [Read 01: Intro to HTML and Javascript](code201/class-01.md)
   2. [Read 02: HTML Text, CSS Intro, Javascript instructions](class-02.md)
   3. [Read 03: HTML lists, CSS Boxes, Javascript loops](class-03.md)
   4. [Read 04: HTML links, CSS Layout, Javascript functions](class-04.md)
@@ -16,6 +17,8 @@
   13. [Read 13: THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](class-13.md)
   14. [Read 14: CSS Transforms, Transitions, and Animations](class-14.md)
   15. [Read 15: What Google Learned From Its Quest to Build the Perfect Team](class-15.md)
-
   
-  _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 class. Feel to free to follow along as I study web development! 
+  **Code 301**
+  1. [Read 01: SMACSS and Responsive Web Design](read-01.md)
+  
+  _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
