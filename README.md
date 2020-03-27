@@ -19,6 +19,6 @@
   15. [Read 15: What Google Learned From Its Quest to Build the Perfect Team](code201/class-15.md)
   
   **Code 301**
-  1. [Read 01: SMACSS and Responsive Web Design](read-01.md)
+  1. [Read 01: SMACSS and Responsive Web Design](code301/read-01.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
