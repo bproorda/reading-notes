@@ -1,0 +1,42 @@
+# JQuery and the Dom
+
+**JQuery**
+- way to simply your js using jQuery library
+- uses css-style selectors
+- intiate with `$('selector')`, creates jquery object
+- act upon JQuery object using methods, such as `$('li.hot').addClass('complete');`
+- add JQuery in HTML file using script src
+- Why use JQuery?
+  - using CSS selectors is faster and often more accurate
+  - can do the same steps as DOM, but in fewer lines of code
+  - cross-browser compatability
+- *A matched set*
+   - if selector used selected multiple elements, it is a matched set.
+   - items put into list
+   - if a method is used to *get* information from the matched set, it will pull that information from the first item in the set.
+     - use transverse, or filter to pick out other elements, use each to get info from all the elements.
+   - if a method is used to *set* information, it will set for all the elements.
+- when you create a JQuery object, it creates a reference to that node, not a copy.
+  - it is better to reuse the same JQ object than to recreate it when needed
+- you use several methods in the same line `$('li.hot').hide().delay(500).fadeIn(1400);`
+- `$(document).ready(function(){ //code block only runs after page had loaded});`
+- `$(function() { same as the above, but shorter });`
+- *creating new elements with JQ*
+   - 1. Create new element in a JQ object
+        - `var $newltem = $('<li class="new">item</ li>');`
+   - 2. Attach to DOM
+        - use before, after, append, prepend
+- getting/setting values
+  - some methods: attr, removeAttr, addClass, removeClass
+- getting/setting css properties
+  - to get a css property, use the property name `$( ' li ' ) .css('background-color' );`
+  - to set a css `$('li ') .css('background-color' , '1272727' )` separate with comma, not colon
+  - to set multiple properties use object notation: `$('li ').css({ ' background-col or' : ' #272727' , ' font-family' : 'Courier'});  
+- JQ can recreate functionality of loops
+  - each: performs method/function onto each item in selection
+  - this: use this for each "iteration" to select the current item
+- *Event Handling*
+   - the .on() method handles all events: $(li).on('click', function...);
+   - first parameter is event, second is the code you want to run when event fires
+   - event object methods: type, which, data, target, pageX, pageY, .preventDefault, .stopPropagation
+
