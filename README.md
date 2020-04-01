@@ -21,5 +21,6 @@
   **Code 301**
   1. [Read 01: SMACSS and Responsive Web Design](code301/read-01.md)
   2. [Read 02: JQuery, and the Dom](code301/read-02.md)
+  3. [Read 03: Flexbox](code301/read-03.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
