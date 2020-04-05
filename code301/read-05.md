@@ -1,0 +1,5 @@
+# Heroku
+
+Heroku is cloud service platform for deploying applications to the web/cloud. It marks a good middle step between deploying a page on say Wordpress, and creating your own server. What deploying means is that the program and its data is on a server connected to the cloud, which is really just a big bunch of servers. When a page is deployed on Wordpress is put into the their servers, effectively out of your hands. You can control the page it self, the client side, but everything on the server-side is not for you to mess with. Of course if you build/buy your own server and set it up in a closet or your basement you have complete control of the server programming and settings. This requires more money and more expertise.
+
+As stated about, Heroku is a good middle point. Being a Platform as a Service, you can create your application and manage how it deployed on Heroku, using node.js, .net, and many other programming languages. Heroku allows the coder to use Ubuntu/WSL to create and deploy your web applications.
