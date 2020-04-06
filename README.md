@@ -23,6 +23,7 @@
   2. [Read 02: JQuery, and the Dom](code301/read-02.md)
   3. [Read 03: Flexbox](code301/read-03.md)
   4. [Read 04: CSS Grid](code301/read-04.md)
-  4. [Read 05: Heroku](code301/read-05.md)
+  5. [Read 05: Heroku](code301/read-05.md)
+  6. [Read 06: Node.js](code301/read-06.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
