@@ -29,6 +29,6 @@
   8. [Read 08: SQL](code301/read-08.md)
   9. [Read 09: Refactoring](code301/read-09.md)
   10. [Read 10: The Call Stack](code301/read-10.md)
-  11. [Read 10: EJS](code301/read-11.md)
+  11. [Read 11: EJS](code301/read-11.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
