@@ -1,0 +1,21 @@
+# Normalization
+- Normalization: reducing redundancies and dependency.
+- meant to elimante unnecessary data, and making sure the data is logicallly.
+- catergorized by several normalized forms, even still developing more
+- 1NF
+  - each cell contains a single, atomic, value
+  - each record is unique
+- a *key* is value used to identify a record in a table uniquely
+- a *primary key* cannot be null, must be unique, and given a value when a new record is entered
+- a *composite key* is a primary key composed of multiple columns used to identify a record uniquely
+- 2NF
+  - same as 1NF and:
+  - Single Column Primary Key
+- Data can also be seperated to multiple tables. IE one for (A) memberships information, another for (B) member rental data
+- a *foreign key* is a reference to a primary key in another table, member # is primary in table A, foreign in B
+  - foreign keys do not have to be unique
+- transitive functional dependency is when changing a non-key column, might cause any of the other non-key columns to change
+  - data on col 5 depends on col 3, if col 5 changes col 3 has to as well
+- 3NF
+  - same as 2nf and:
+  - Has no transitive functional dependencies
