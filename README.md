@@ -34,5 +34,8 @@
   13. [Read 13: stuff](code301/read-11.md)
   14.[Read 14: Normalization](code301/read-14.md)
   15.[Read 15: Diversity/Inclusion](code301/read-15.md)
+
+  **Code 401**
+  2. [Read 02: Unit Testing](code401/reading-02.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 

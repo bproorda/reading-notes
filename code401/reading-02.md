@@ -1,0 +1,13 @@
+# Unit Testing
+- Breaking down your code to test for proper behavior and functionality
+- the discrete segment of code being tested is called a unit.
+- built into your code, use VS or third party programs
+- Think of it as using the scientific method:  hypothesize and test
+- Unit testing version: arrange, act, assert
+  - arrange all the code needed for the test
+  - act: invoke the test method
+  - assert: use the assert class
+- Good general practice is have one asset method per test, test one thing at at time.
+- xunit allows fact or theory tests
+  - Facts are tests which are always true. They test invariant conditions.
+  - Theories are tests which are only true for a particular set of data 
