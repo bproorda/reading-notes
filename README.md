@@ -38,6 +38,7 @@
   **Code 401**
   2. [Read 02: Unit Testing](code401/reading-02.md)
   3. [Read 03: System I/O](code401/reading-03.md)
-  4. [Read 03: Classes & Objects](code401/reading-04.md)
+  4. [Read 04: Classes & Objects](code401/reading-04.md)
+  5. [Read 05: Lists](code401/reading-05.md)
   
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 

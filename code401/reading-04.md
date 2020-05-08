@@ -19,4 +19,4 @@
   - gives a class a public mechanisim of getting and setting values, while hiding impementation or verification
   - a *get* property accessor is used to return the property value
   - a *set* property accessor is usedto assign a new value
-  - !(screenshot)[property.png]
+  - ![screenshot](property.png)
