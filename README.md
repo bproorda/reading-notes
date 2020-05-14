@@ -41,5 +41,6 @@
   4. [Read 04: Classes & Objects](code401/reading-04.md)
   5. [Read 05: Lists](code401/reading-05.md)
   6. [Read 06: Interfaces](code401/reading-06.md)
-  7. [Read 06: Collections](code401/reading-07.md)
+  7. [Read 07: Collections](code401/reading-07.md)
+  8. [Read 08: Linq](code401/reading-08.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 

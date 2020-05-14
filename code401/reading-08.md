@@ -1,0 +1,12 @@
+# LINQ
+- Language-Integrated Query (LINQ) is the name for a set of technologies based on the integration of query capabilities directly into the C# language
+- With LINQ, a query is a first-class language construct, just like classes, methods, events. You write queries against strongly typed collections of objects by using language keywords and familiar operators.
+- Query expressions are written in a declarative query syntax.
+- A query is an expression that retrieves data from a data source.
+- three actions
+  - obtain data source
+  - createt the query
+  - execute the query
+- one example: if datasource is a array, it implicity supports IEnumberable interface
+- a query is executed in foreach and requires I#numberable
+- The query specifies what information to retrieve from the data source or sources
