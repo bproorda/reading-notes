@@ -47,4 +47,5 @@
   10. [Read 10: MVC](code401/reading-10.md)
   10. [Read 10: MVC](code401/reading-10.md)
   12. [Read 12: Entity Framework Core](code401/reading-12.md)
+  13. [Read 13: Intro to APIs](code401/reading-13.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
