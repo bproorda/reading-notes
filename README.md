@@ -50,4 +50,5 @@
   13. [Read 13: Intro to APIs](code401/reading-13.md)
   14. [Read 14: Trees](code401/reading-14.md)
   15. [Read 15: Dependency Injection](code401/reading-15.md)
+  17. [Read 15: Views](code401/reading-17.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
