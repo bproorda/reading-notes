@@ -53,5 +53,6 @@
   17. [Read 17: Views](code401/reading-17.md)
   18. [Read 18: Calling an API](code401/reading-18.md)
   19. [Read 19: Intro to Identity](code401/reading-19.md)
-  20. [Read 20: Authentication](code401/reading-20.md)
+  20. [Read 20: JWT](code401/reading-20.md)
+  21. [Read 21: JWT Authentication/Authorization](code401/reading-21.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
