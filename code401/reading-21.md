@@ -16,4 +16,3 @@ Authentication and Authorization with JWT
   -  use double curly brackets `{{}}` to swap in the token
   - Can set authorization at the collection-, folder-, or request-level. Easy to set up the same authorization method for every request inside the collection or folder
   - Authorization is saved under the auth property
-- 

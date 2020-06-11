@@ -55,4 +55,5 @@
   19. [Read 19: Intro to Identity](code401/reading-19.md)
   20. [Read 20: JWT](code401/reading-20.md)
   21. [Read 21: JWT Authentication/Authorization](code401/reading-21.md)
+  22. [Read 22: JWT Authorization by Roles and Claims](code401/reading-22.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
