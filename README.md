@@ -57,4 +57,5 @@
   21. [Read 21: JWT Authentication/Authorization](code401/reading-21.md)
   22. [Read 22: JWT Authorization by Roles and Claims](code401/reading-22.md)
   23. [Read 23: Hash Tables](code401/reading-23.md)
+  24. [Read 24: Intro to React.JS](code401/reading-24.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
