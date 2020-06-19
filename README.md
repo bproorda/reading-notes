@@ -61,4 +61,5 @@
   25. [Read 25: React Testing and Deployment](code401/reading-25.md)
   26. [Read 26: React Props and State](code401/reading-26.md)
   27. [Read 27: Component Composition](code401/reading-27.md)
+  28. [Read 28: Graphs](code401/reading-28.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
