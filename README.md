@@ -64,4 +64,5 @@
   28. [Read 28: Graphs](code401/reading-28.md)
   29. [Read 29: React Hooks](code401/reading-29.md)
   30. [Read 30: Creating Custom React Hooks](code401/reading-30.md)
+  31. [Read 31: Context API](code401/reading-31.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
