@@ -67,4 +67,5 @@
   31. [Read 31: Context API](code401/reading-31.md)
   32. [Read 32: React Login and auth](code401/reading-32.md)
   33. [Read 33: React Native And Xamarin](code401/reading-33.md)
+  34. [Read 34: The Next Framework](code401/reading-34.md)
   _Hello!_ My name is Brennan Roorda, I am a developer student at DeltaV Code School in Cedar Rapids, IA. This page will be my Reading Notes for my Code 201 and 301 classes. Feel to free to follow along as I study web development! 
